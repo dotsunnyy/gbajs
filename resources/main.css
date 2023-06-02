@@ -18,7 +18,7 @@ button {
 	margin-bottom: 150px;
 }
 
-#screen[width="240"] {
+#screen[width="350"] {
 	margin-top: 42.5px;
 	margin-bottom: -363px; /* Take up no height */
 	image-rendering: -webkit-optimize-contrast;
